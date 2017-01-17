@@ -1,2 +1,3 @@
 # Team-931.github.io
-PLACE HOLDER
+This repository holds a website for FIRST Robotics Team 931
+Perpetual Chaos
